@@ -1,4 +1,5 @@
 **Bank Customer Churn Prediction**
+
 This project aims to predict customer churn in a bank using a dataset containing various customer attributes. 
 The model uses a Random Forest Classifier to predict whether a customer will exit (churn) or not.
 The project includes data preprocessing, model training, evaluation, and visualization.
