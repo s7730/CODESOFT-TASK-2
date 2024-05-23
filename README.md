@@ -41,9 +41,13 @@ Exited: Whether the customer churned (1) or not (0).
 **Project Structure**
 
 data_loading: Load the dataset and handle missing values.
+
 data_preprocessing: Drop unnecessary columns and convert categorical variables into dummy/indicator variables.
+
 data_visualization: Visualize the distribution of the target variable.
+
 model_training: Split the data into training, validation, and test sets, and train a Random Forest Classifier.
+
 model_evaluation: Evaluate the model using accuracy, confusion matrix, classification report, and ROC curve.
 
 **Installation**
