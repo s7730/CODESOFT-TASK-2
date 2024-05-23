@@ -60,6 +60,7 @@ seaborn
 scikit-learn
 
 **You can install these libraries using pip:**
+
 pip install <'library name'>
 
 
